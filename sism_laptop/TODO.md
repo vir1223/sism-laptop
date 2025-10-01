@@ -1,0 +1,8 @@
+- [x] Create History model
+- [x] Add adminDashboard method to DashboardController with monthly perizinan data for bar chart and this month's status data for donut chart
+- [ ] Update admin dashboard route to use controller method
+- [ ] Update admin.blade.php to pass data to JavaScript for charts
+- [ ] Create HistoryController with index method
+- [ ] Create history index view
+- [ ] Add route for history index
+- [ ] Update sidebar to add History link in Report section
